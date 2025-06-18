@@ -1,4 +1,4 @@
-# 👩🏻👨‍💻 Jaderson Pedro
+# 👨‍💻 Jaderson Pedro
 
 **`Cientista de Dados em Desenvolvimento`**
 
