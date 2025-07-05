@@ -1,74 +1,59 @@
-# 👨‍💻 Jaderson Pedro
-
-**`Cientista de Dados em Desenvolvimento`**
-
-Me chamo Jaderson Pedro, tenho 35 anos e sou natural de Campinas, São Paulo. Sou formado em Engenharia Química pela Unifi, e nós dias de hoje estou cursando Duplo Master em Project Management + Big Data and Business Intelligence na Universidad Isabel I. Atualmente estou em transição de carreira para o mundo de Ciências de Dados e além de ser apaixonado por tecnologia, gosto de cozinhar e sou professor de italiano. Possuo um perfil no instagram junto com minha noiva italiana chamado "[Seigiàitaliano](https://www.instagram.com/seigiaitaliano/)", onde fazemos alguns vídeos sobre a Itália e sua cultura.
+<h1 align="center">👋 Hi, I'm Jaderson Pedro Bonfim da Costa</h1>
+<h3 align="center">Chemical Engineer & Aspiring Data Scientist</h3>
 
 ---
 
+🎓 **Education**:
+- B.Sc. in Chemical Engineering (UFBA and Università degli Studi di Firenze 🇮🇹)
+- Postgraduate Specialization in Data Science and Analytics
 
-<div> 
-   <a href="https://www.instagram.com/seigiaitaliano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jadersonengbio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaderson-pedro-bonfim-da-costa-565765140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+💼 **Experience**:
+- Data Science Intern (data analysis, machine learning and dashboards)
+- Pharmacy Manager (inventory control, team supervision, KPIs)
 
-<div> 
+🧠 **Skills**:
+- Python (Pandas, Matplotlib, Scikit-learn)
+- SQL (PostgreSQL)
+- Power BI
+- R (basic)
+- Advanced Excel
 
-
----
-<div> 
-
-### 🤖 Linguagens e Tecnologias
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<br>
-<br>
-<div> 
+🌍 **Languages**:
+- Portuguese (native)
+- Italian (advanced)
+- English (intermediate)
 
 ---
 
-<div> 
+## 🔧 Technologies & Tools
 
-### 📊 Estatísticas
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudio)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="120" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JadersonPedro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" align="right" 
-      alt="GitHub Stats" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadersonPedro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-    
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadersonPedro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📌 Featured Projects
 
-</p>
-<div>
+- 📊 [Exploratory Data Analysis: COVID-19 in Brazil](https://github.com/JadersonPedro/EDA_Covid19)
+- 🗃️ [SQL Projects and Business Queries](https://github.com/JadersonPedro/Projetos_SQL)
+- 📄 [Data Science Résumé in LaTeX](https://github.com/JadersonPedro/Curriculo-DataScience)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JadersonPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadersonPedro&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 📫 Contact Me
+
+- 📎 LinkedIn: [linkedin.com/in/jadersonpedro](https://www.linkedin.com/in/jadersonpedro/)
+- ✉️ Email: jaderson.pedro@hotmail.com
